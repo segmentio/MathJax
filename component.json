@@ -1,0 +1,8 @@
+{
+  "name": "mathjax",
+  "version": "",
+  "description": "MathJax as a component.",
+  "keywords": ["math", "mathjax", "component"],
+  "scripts": ["MathJax.js"],
+  "main": "MathJax.js"
+}
