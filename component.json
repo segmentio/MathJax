@@ -1,6 +1,6 @@
 {
   "name": "mathjax",
-  "version": "",
+  "version": "2.2.0",
   "description": "MathJax as a component.",
   "keywords": ["math", "mathjax", "component"],
   "scripts": ["MathJax.js"],
